@@ -1,0 +1,26 @@
+/* body {
+    background: #3e3e3e;
+    color: #eee;
+    font-family: sans-serif;
+    font-weight: 100;
+    display: flex;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.c {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: space-around;
+}
+}
+ */
